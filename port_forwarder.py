@@ -101,5 +101,4 @@ def main(argv):
 
 
 if __name__ == '__main__':
-    test()
-    # main(sys.argv[1:])
+    main(sys.argv[1:])
